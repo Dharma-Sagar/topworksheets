@@ -41,16 +41,16 @@ msgid "Answers saved"
 msgstr "ལན་དེ་ཚོ་གཉར་ཚར་སོང་།"
 
 msgid "Yes, recover"
-msgstr "Yes, recover"
+msgstr "ཁ་ཕྱེ་རོགས་བྱེད།"
 
 msgid "You have answers pending to send to your teacher. Do you want to recover them?"
-msgstr "You have answers pending to send to your teacher. Do you want to recover them?"
+msgstr "རང་གི་རྒན་ལགས་ལ་འཕུལ་དགོས་པའི་སྦྱོང་བརྡར་འདུ། ད་ལྟ་ཁ་ཕྱེ་དགོས་པས།"
 
 msgid "Your answers have been saved, you can continue working on this task later"
-msgstr "Your answers have been saved, you can continue working on this task later"
+msgstr "ལན་སྤྲད་པ་གཉར་ཚགས་བྱས་ཡོད། རྗེས་མ་སྦྱོང་བརྡར་འདི་མུ་མཐུད་ནས་བྱེད་ཆོག་གི་རེད།"
 
 msgid "Remember you must finish the worksheet to send answers to your teacher"
-msgstr "Remember you must finish the worksheet to send answers to your teacher"
+msgstr "སྦྱོང་བརྡར་ཆ་ཚང་དང་པོ་ཚར་དགོས་ཀྱི་ཡོད། དེ་ནས་གཞི་ནས་རང་གི་རྒན་ལགས་ལ་འཕུལ་ཆོག་གི་རེད།"
 
 msgid "Your answers have been saved in your account. You will be able to continue this task later by logging in to your TopWorksheets account"
 msgstr "Your answers have been saved in your account. You will be able to continue this task later by logging in to your TopWorksheets account"
